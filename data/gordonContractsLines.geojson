@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"features": [
+{ "type": "Feature", "properties": { "O_City": "FORT GORDON", "O_Lat": 33.420972, "O_Lon": -82.1620645, "D_City": "AUGUSTA", "Contracts": 18, "City": "AUGUSTA", "State": "GA", "D_Lat": 33.4709714, "D_Lon": -81.9748429 }, "geometry": { "type": "LineString", "coordinates": [ [ -82.1620645, 33.420972 ], [ -81.9748429, 33.4709714 ] ] } },
+{ "type": "Feature", "properties": { "O_City": "FORT GORDON", "O_Lat": 33.420972, "O_Lon": -82.1620645, "D_City": "BUFORD", "Contracts": 2, "City": "BUFORD", "State": "GA", "D_Lat": 34.1206564, "D_Lon": -84.0043513 }, "geometry": { "type": "LineString", "coordinates": [ [ -82.1620645, 33.420972 ], [ -84.0043513, 34.1206564 ] ] } },
+{ "type": "Feature", "properties": { "O_City": "FORT GORDON", "O_Lat": 33.420972, "O_Lon": -82.1620645, "D_City": "EAST POINT", "Contracts": 1, "City": "EAST POINT", "State": "GA", "D_Lat": 33.6795531, "D_Lon": -84.4393724 }, "geometry": { "type": "LineString", "coordinates": [ [ -82.1620645, 33.420972 ], [ -84.4393724, 33.6795531 ] ] } }
+]
+}

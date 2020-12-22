@@ -1,0 +1,375 @@
+/*font reference*/
+
+/* Bernina Sans Regular
+	font-family: jaf-bernina-sans, sans-serif;
+	font-weight: 400;
+	font-style: normal;
+Bernina Sans Italic
+	font-family: jaf-bernina-sans, sans-serif;
+	font-weight: 400;
+	font-style: italic;
+Bernina Sans Bold
+	font-family: jaf-bernina-sans, sans-serif;
+	font-weight: 700;
+	font-style: normal;
+Bernina Sans Light
+	font-family: jaf-bernina-sans, sans-serif;
+	font-weight: 300;
+	font-style: normal;
+Bernina Sans Semibold
+	font-family: jaf-bernina-sans, sans-serif;
+	font-weight: 600;
+	font-style: normal;*/
+
+
+body {
+	background-color: #f8f9fa;
+}
+
+h1 {
+	font-family: jaf-bernina-sans, sans-serif;
+	font-weight: 400;
+	font-style: normal;
+}
+
+p {
+	font-family: jaf-bernina-sans, sans-serif;
+	font-weight: 300;
+	font-style: normal;
+	font-size: 1.25rem;
+}
+
+#title {
+	font-size: 5rem;
+	padding-top: 5rem;
+}
+
+.big-image {
+	text-align: center;
+	margin-top: 2rem;
+	margin-bottom: 2rem;
+}
+
+nav {
+  border-bottom: 1px solid black;
+  max-height: 100px;
+}
+
+.nav-link {
+	font-family: jaf-bernina-sans, sans-serif;
+	font-weight: 400;
+	font-style: normal;
+}
+
+.caption-container {
+	text-align: left;
+}
+
+.image-caption {
+	font-family: jaf-bernina-sans, sans-serif;
+	font-weight: 400;
+	font-style: normal;
+	font-size: 12px;
+}
+
+.img-container {
+	text-align: center;
+}
+
+.lead {
+	margin-top: 3rem;
+}
+
+.last-lead {
+	margin-top: 10rem;
+}
+
+hr {
+    border: 0;
+    height: 1px;
+    background: #333;
+    background-image: linear-gradient(to right, #ccc, #333, #ccc);
+}
+
+
+/*FOR SIDE SCROLL*/
+#mapOne {
+	height: 100%;
+	width: 100%;
+}
+
+.mapboxgl-ctrl-bottom-right {
+	display: none;
+}
+
+.sideScrolly {
+	position: relative;
+	display: -webkit-box;
+    display: -ms-flexbox;
+    display: flex;
+    background-color: #f8f9fa;
+    padding: 1rem;
+}
+
+.sideScrolly > * {
+	-webkit-box-flex: 1;
+    -ms-flex: 1;
+    flex: 1;
+}
+
+figure {
+	position: -webkit-sticky;
+    position: sticky;
+    width: 100%;
+    margin: 0;
+    -webkit-transform: translate3d(0, 0, 0);
+    -moz-transform: translate3d(0, 0, 0);
+    transform: translate3d(0, 0, 0);
+    background-color: #8a8a8a;
+    z-index: 0;
+    height: 60vh;
+    top: 200px;
+}
+
+#centerScrolly .scrolly figure.sticky.flourish-container {
+	height: 60vh;
+	top: 10vh;
+}
+
+#flourishStory {
+	height: 100%;
+}
+
+article {
+    position: relative;
+    padding: 0 1rem;
+    max-width: 25rem;
+}
+
+figure p {
+	text-align: left;
+	padding: 1rem;
+	position: absolute;
+	top: 50%;
+	left: 50%;
+	-moz-transform: translate(-50%, -50%);
+	-webkit-transform: translate(-50%, -50%);
+	transform: translate(-50%, -50%);
+	color: #fff;
+}
+
+.step {
+	margin: 0 auto 10rem auto;
+	background-color: #f8f9fa;
+	color: #000;
+	box-shadow: 0 3px 6px rgba(0, 0, 0, 0.16);
+	opacity: 0.25;
+}
+
+.last-step {
+	margin-bottom: 100vh;
+}
+
+.step:first-child {
+	margin-top: 40rem;
+}
+
+.step.is-active {
+	opacity: 0.9;
+}
+
+.step p {
+	text-align: left;
+	padding: 1rem;
+}
+
+.step .footnote {
+	font-size: 10px;
+	font-family: jaf-bernina-sans, sans-serif;
+	font-weight: 400;
+	font-style: italic;
+	padding-top: 0;
+	padding-bottom: 0;
+	margin-top: 0;
+	margin-bottom: 0;
+}
+
+.footnote {
+	font-size: 10px;
+	font-family: jaf-bernina-sans, sans-serif;
+	font-weight: 400;
+	font-style: italic;
+	padding-top: 0;
+	padding-bottom: 0;
+	margin-top: 0;
+	margin-bottom: 0;
+	text-align: left;
+}
+
+/*styling for the second scrollytelling portion*/
+.bubbleScroll {
+	background-color: transparent;
+	height: 75vh;
+	top: 20vh;
+}
+
+#mapTwo {
+	height: 100%;
+	width: 100%;
+}
+
+#mapThree {
+  position: absolute;
+  height: 100%;
+  width: 100%;
+}
+
+#centerScrolly .scrolly {
+  max-width: 80rem;
+  margin: 0 auto;
+  padding: 1rem;
+}
+
+#centerScrolly .scrolly article {
+  padding: 0;
+  max-width: 30rem;
+  margin: 0 auto;
+  position: relative;
+}
+
+#centerScrolly .scrolly article .step {
+  /*min-height: 67vh;*/
+  margin-bottom: 30rem;
+}
+
+#centerScrolly .scrolly article .step.is-active {
+  opacity: 0.9;
+}
+
+#centerScrolly .scrolly article .step:first-of-type {
+	margin-top: 3rem;
+}
+
+#centerScrolly .scrolly article .last-step {
+	margin-bottom: 2rem;
+}
+/*#centerScrolly .scrolly article .step:last-of-type {
+  margin-bottom: 0;
+}*/
+
+#centerScrolly .scrolly figure.sticky {
+  position: -webkit-sticky;
+  position: sticky;
+  width: 100%;
+  height: 90vh;
+  margin: 0;
+  top: 5vh;
+  left: 0;
+}
+
+.red {
+	color: #ec1c24;
+}
+
+.green {
+	color: #b2d235;
+}
+
+.light-blue {
+	color: #00bcf1;
+}
+
+.dark-blue {
+	color: #007db9;
+}
+
+.yellow {
+	color: #fdb714;
+}
+
+@media only screen and (max-width: 1024px) {
+
+	#title {
+		font-size: 2rem;
+		padding-top: 0;
+	}
+
+	#centerScrolly .scrolly figure.sticky.flourish-container {
+		top: 10vh;
+	}
+
+}
+
+@media only screen and (max-height: 649px) {
+	#centerScrolly .scrolly figure.sticky.flourish-container {
+		top: 0;
+	}
+
+	.last-step {
+		margin-bottom: 100vh;
+	}
+}
+
+/*if device is less than or equal to 991 pixels*/
+@media only screen and (max-width: 991px)  {
+	.scrolling-container {
+		width: 100%;
+	    margin-right: auto;
+	    margin-left: auto;
+	    padding: 0;
+	}
+
+	.sideScrolly {
+		display: block;
+	}
+
+	.sideScrolly article {
+		margin: 0 auto;
+		padding: 0;
+	}
+
+	.bubbleScroll {
+		width: 100%;
+	    margin: 0 auto;
+	    padding: 0;
+	    height: 85vh;
+    	top: 10vh;
+	}
+
+	.step {
+		margin-bottom: 30rem;
+	}
+
+	.step:first-child {
+		margin-top: 10rem;
+	}
+
+/*	///////////////////// for side scroll ///////////////  */
+	.container-fluid {
+		padding: 0;
+	}
+
+	#centerScrolly .scrolly {
+	    margin: 0 auto;
+	    padding: 0;
+	    width: 100%;
+	}
+
+}
+
+/*if device is less than or equal to 400 pixels*/
+@media only screen and (max-width: 400px)  {
+	#title {
+		font-size: 2rem;
+	}
+	p {
+		font-size: 1rem;
+	}
+	.step {
+	    margin-bottom: 25rem;
+	    width: 80vw;
+	}
+	.lead {
+		font-size: 1rem;
+	}
+}

@@ -1,0 +1,99 @@
+{"type":"FeatureCollection","features":[{"type":"Feature","properties":{"MSA":"Atlanta-Sandy Springs-Alpharetta, GA","GEOID":"12060","Profiles":8376},"geometry":{"type":"Point","coordinates":[10.022694296554594,-4.465529055591943]},"bbox":[10.022694296554594,-4.465529055591943,10.022694296554594,-4.465529055591943]}
+,
+{"type":"Feature","properties":{"MSA":"Augusta-Richmond County, GA-SC","GEOID":"12260","Profiles":1027},"geometry":{"type":"Point","coordinates":[12.035141058939246,-4.428260398005791]},"bbox":[12.035141058939246,-4.428260398005791,12.035141058939246,-4.428260398005791]}
+,
+{"type":"Feature","properties":{"MSA":"Austin-Round Rock-Georgetown, TX","GEOID":"12420","Profiles":2835},"geometry":{"type":"Point","coordinates":[-0.962859035790854,-8.45697389316381]},"bbox":[-0.962859035790854,-8.45697389316381,-0.962859035790854,-8.45697389316381]}
+,
+{"type":"Feature","properties":{"MSA":"Baltimore-Columbia-Towson, MD","GEOID":"12580","Profiles":11442},"geometry":{"type":"Point","coordinates":[15.26703843381641,2.1293527888625223]},"bbox":[15.26703843381641,2.1293527888625223,15.26703843381641,2.1293527888625223]}
+,
+{"type":"Feature","properties":{"MSA":"Boston-Cambridge-Newton, MA-NH","GEOID":"14460","Profiles":7310},"geometry":{"type":"Point","coordinates":[18.547692273134135,6.226565019633335]},"bbox":[18.547692273134135,6.226565019633335,18.547692273134135,6.226565019633335]}
+,
+{"type":"Feature","properties":{"MSA":"Buffalo-Cheektowaga, NY","GEOID":"15380","Profiles":452},"geometry":{"type":"Point","coordinates":[12.91574010935126,5.494846011923801]},"bbox":[12.91574010935126,5.494846011923801,12.91574010935126,5.494846011923801]}
+,
+{"type":"Feature","properties":{"MSA":"Charlotte-Concord-Gastonia, NC-SC","GEOID":"16740","Profiles":2178},"geometry":{"type":"Point","coordinates":[12.733335818258729,-2.582099060708249]},"bbox":[12.733335818258729,-2.582099060708249,12.733335818258729,-2.582099060708249]}
+,
+{"type":"Feature","properties":{"MSA":"Chicago-Naperville-Elgin, IL-IN-WI","GEOID":"16980","Profiles":6687},"geometry":{"type":"Point","coordinates":[6.500232136788766,3.408571031815511]},"bbox":[6.500232136788766,3.408571031815511,6.500232136788766,3.408571031815511]}
+,
+{"type":"Feature","properties":{"MSA":"Cincinnati, OH-KY-IN","GEOID":"17140","Profiles":1348},"geometry":{"type":"Point","coordinates":[9.296026016004577,0.9388938014299393]},"bbox":[9.296026016004577,0.9388938014299393,9.296026016004577,0.9388938014299393]}
+,
+{"type":"Feature","properties":{"MSA":"Cleveland-Elyria, OH","GEOID":"17460","Profiles":1060},"geometry":{"type":"Point","coordinates":[11.065668116379344,3.7153728010509712]},"bbox":[11.065668116379344,3.7153728010509712,11.065668116379344,3.7153728010509712]}
+,
+{"type":"Feature","properties":{"MSA":"Columbus, OH","GEOID":"18140","Profiles":1358},"geometry":{"type":"Point","coordinates":[10.428436397616752,1.969464562210631]},"bbox":[10.428436397616752,1.969464562210631,10.428436397616752,1.969464562210631]}
+,
+{"type":"Feature","properties":{"MSA":"Dallas-Fort Worth-Arlington, TX","GEOID":"19100","Profiles":6432},"geometry":{"type":"Point","coordinates":[-0.34650876127360736,-5.888492568292179]},"bbox":[-0.34650876127360736,-5.888492568292179,-0.34650876127360736,-5.888492568292179]}
+,
+{"type":"Feature","properties":{"MSA":"Denver-Aurora-Lakewood, CO","GEOID":"19740","Profiles":3361},"geometry":{"type":"Point","coordinates":[-6.331543549398921,1.0574361829066]},"bbox":[-6.331543549398921,1.0574361829066,-6.331543549398921,1.0574361829066]}
+,
+{"type":"Feature","properties":{"MSA":"Detroit-Warren-Dearborn, MI","GEOID":"19820","Profiles":2456},"geometry":{"type":"Point","coordinates":[9.779082001106262,4.671063682640499]},"bbox":[9.779082001106262,4.671063682640499,9.779082001106262,4.671063682640499]}
+,
+{"type":"Feature","properties":{"MSA":"Hartford-East Hartford-Middletown, CT","GEOID":"25540","Profiles":686},"geometry":{"type":"Point","coordinates":[17.64508460335303,5.164754437616886]},"bbox":[17.64508460335303,5.164754437616886,17.64508460335303,5.164754437616886]}
+,
+{"type":"Feature","properties":{"MSA":"Houston-The Woodlands-Sugar Land, TX","GEOID":"26420","Profiles":4290},"geometry":{"type":"Point","coordinates":[1.024254547016802,-8.974597634511904]},"bbox":[1.024254547016802,-8.974597634511904,1.024254547016802,-8.974597634511904]}
+,
+{"type":"Feature","properties":{"MSA":"Indianapolis-Carmel-Anderson, IN","GEOID":"26900","Profiles":1194},"geometry":{"type":"Point","coordinates":[7.9113059753410715,1.4398820328190916]},"bbox":[7.9113059753410715,1.4398820328190916,7.9113059753410715,1.4398820328190916]}
+,
+{"type":"Feature","properties":{"MSA":"Jacksonville, FL","GEOID":"27260","Profiles":877},"geometry":{"type":"Point","coordinates":[12.703763799532991,-7.5877549820017265]},"bbox":[12.703763799532991,-7.5877549820017265,12.703763799532991,-7.5877549820017265]}
+,
+{"type":"Feature","properties":{"MSA":"Kansas City, MO-KS","GEOID":"28140","Profiles":1528},"geometry":{"type":"Point","coordinates":[1.662108711109089,0.2477902167879292]},"bbox":[1.662108711109089,0.2477902167879292,1.662108711109089,0.2477902167879292]}
+,
+{"type":"Feature","properties":{"MSA":"Las Vegas-Henderson-Paradise, NV","GEOID":"29820","Profiles":1150},"geometry":{"type":"Point","coordinates":[-14.63269135105898,-0.9952737929052846]},"bbox":[-14.63269135105898,-0.9952737929052846,-14.63269135105898,-0.9952737929052846]}
+,
+{"type":"Feature","properties":{"MSA":"Los Angeles-Long Beach-Anaheim, CA","GEOID":"31080","Profiles":8028},"geometry":{"type":"Point","coordinates":[-17.595567276435112,-2.514304521194091]},"bbox":[-17.595567276435112,-2.514304521194091,-17.595567276435112,-2.514304521194091]}
+,
+{"type":"Feature","properties":{"MSA":"Louisville/Jefferson County, KY-IN","GEOID":"31140","Profiles":465},"geometry":{"type":"Point","coordinates":[8.466174560449913,0.032524984540934464]},"bbox":[8.466174560449913,0.032524984540934464,8.466174560449913,0.032524984540934464]}
+,
+{"type":"Feature","properties":{"MSA":"Memphis, TN-MS-AR","GEOID":"32820","Profiles":463},"geometry":{"type":"Point","coordinates":[5.437833621521533,-3.54940379326778]},"bbox":[5.437833621521533,-3.54940379326778,5.437833621521533,-3.54940379326778]}
+,
+{"type":"Feature","properties":{"MSA":"Miami-Fort Lauderdale-Pompano Beach, FL","GEOID":"33100","Profiles":3021},"geometry":{"type":"Point","coordinates":[14.470347845059173,-11.395370472571766]},"bbox":[14.470347845059173,-11.395370472571766,14.470347845059173,-11.395370472571766]}
+,
+{"type":"Feature","properties":{"MSA":"Milwaukee-Waukesha, WI","GEOID":"33340","Profiles":790},"geometry":{"type":"Point","coordinates":[6.406704370207132,4.766274759430362]},"bbox":[6.406704370207132,4.766274759430362,6.406704370207132,4.766274759430362]}
+,
+{"type":"Feature","properties":{"MSA":"Minneapolis-St. Paul-Bloomington, MN-WI","GEOID":"33460","Profiles":2692},"geometry":{"type":"Point","coordinates":[2.384620653247109,6.458260276113031]},"bbox":[2.384620653247109,6.458260276113031,2.384620653247109,6.458260276113031]}
+,
+{"type":"Feature","properties":{"MSA":"Nashville-Davidson--Murfreesboro--Franklin, TN","GEOID":"34980","Profiles":1157},"geometry":{"type":"Point","coordinates":[7.9385172319712085,-2.238429996201821]},"bbox":[7.9385172319712085,-2.238429996201821,7.9385172319712085,-2.238429996201821]}
+,
+{"type":"Feature","properties":{"MSA":"New Orleans-Metairie, LA","GEOID":"35380","Profiles":444},"geometry":{"type":"Point","coordinates":[5.915229004343504,-8.739408172315294]},"bbox":[5.915229004343504,-8.739408172315294,5.915229004343504,-8.739408172315294]}
+,
+{"type":"Feature","properties":{"MSA":"New York-Newark-Jersey City, NY-NJ-PA","GEOID":"35620","Profiles":23038},"geometry":{"type":"Point","coordinates":[16.92394869480313,4.011892204163932]},"bbox":[16.92394869480313,4.011892204163932,16.92394869480313,4.011892204163932]}
+,
+{"type":"Feature","properties":{"MSA":"Oklahoma City, OK","GEOID":"36420","Profiles":831},"geometry":{"type":"Point","coordinates":[-0.7508021816206387,-3.2914991715564836]},"bbox":[-0.7508021816206387,-3.2914991715564836,-0.7508021816206387,-3.2914991715564836]}
+,
+{"type":"Feature","properties":{"MSA":"Orlando-Kissimmee-Sanford, FL","GEOID":"36740","Profiles":2047},"geometry":{"type":"Point","coordinates":[13.31605944896989,-9.295204186732972]},"bbox":[13.31605944896989,-9.295204186732972,13.31605944896989,-9.295204186732972]}
+,
+{"type":"Feature","properties":{"MSA":"Philadelphia-Camden-Wilmington, PA-NJ-DE-MD","GEOID":"37980","Profiles":5007},"geometry":{"type":"Point","coordinates":[16.06714228301143,2.9094546521519122]},"bbox":[16.06714228301143,2.9094546521519122,16.06714228301143,2.9094546521519122]}
+,
+{"type":"Feature","properties":{"MSA":"Phoenix-Mesa-Chandler, AZ","GEOID":"38060","Profiles":2826},"geometry":{"type":"Point","coordinates":[-12.83443066451035,-4.433187761998218]},"bbox":[-12.83443066451035,-4.433187761998218,-12.83443066451035,-4.433187761998218]}
+,
+{"type":"Feature","properties":{"MSA":"Pittsburgh, PA","GEOID":"38300","Profiles":2123},"geometry":{"type":"Point","coordinates":[12.60344382606496,2.7879558822478137]},"bbox":[12.60344382606496,2.7879558822478137,12.60344382606496,2.7879558822478137]}
+,
+{"type":"Feature","properties":{"MSA":"Portland-Vancouver-Hillsboro, OR-WA","GEOID":"38900","Profiles":1501},"geometry":{"type":"Point","coordinates":[-17.82895035087736,9.461051143366166]},"bbox":[-17.82895035087736,9.461051143366166,-17.82895035087736,9.461051143366166]}
+,
+{"type":"Feature","properties":{"MSA":"Providence-Warwick, RI-MA","GEOID":"39300","Profiles":891},"geometry":{"type":"Point","coordinates":[18.512567585013816,5.3119863993325875]},"bbox":[18.512567585013816,5.3119863993325875,18.512567585013816,5.3119863993325875]}
+,
+{"type":"Feature","properties":{"MSA":"Raleigh-Cary, NC","GEOID":"39580","Profiles":805},"geometry":{"type":"Point","coordinates":[14.488204926439291,-1.6746579451054011]},"bbox":[14.488204926439291,-1.6746579451054011,14.488204926439291,-1.6746579451054011]}
+,
+{"type":"Feature","properties":{"MSA":"Richmond, VA","GEOID":"40060","Profiles":1690},"geometry":{"type":"Point","coordinates":[14.9654669479831,0.11828759401065941]},"bbox":[14.9654669479831,0.11828759401065941,14.9654669479831,0.11828759401065941]}
+,
+{"type":"Feature","properties":{"MSA":"Riverside-San Bernardino-Ontario, CA","GEOID":"40140","Profiles":731},"geometry":{"type":"Point","coordinates":[-15.85877897375766,-2.452857003462059]},"bbox":[-15.85877897375766,-2.452857003462059,-15.85877897375766,-2.452857003462059]}
+,
+{"type":"Feature","properties":{"MSA":"Sacramento-Roseville-Folsom, CA","GEOID":"40900","Profiles":1016},"geometry":{"type":"Point","coordinates":[-18.613959626325165,2.602285882784064]},"bbox":[-18.613959626325165,2.602285882784064,-18.613959626325165,2.602285882784064]}
+,
+{"type":"Feature","properties":{"MSA":"Salt Lake City, UT","GEOID":"41620","Profiles":1084},"geometry":{"type":"Point","coordinates":[-12.295541525338994,2.929258691602329]},"bbox":[-12.295541525338994,2.929258691602329,-12.295541525338994,2.929258691602329]}
+,
+{"type":"Feature","properties":{"MSA":"San Antonio-New Braunfels, TX","GEOID":"41700","Profiles":3702},"geometry":{"type":"Point","coordinates":[-1.8028220592511466,-9.263084414109533]},"bbox":[-1.8028220592511466,-9.263084414109533,-1.8028220592511466,-9.263084414109533]}
+,
+{"type":"Feature","properties":{"MSA":"San Diego-Chula Vista-Carlsbad, CA","GEOID":"41740","Profiles":4443},"geometry":{"type":"Point","coordinates":[-16.702656643429933,-3.837140608448232]},"bbox":[-16.702656643429933,-3.837140608448232,-16.702656643429933,-3.837140608448232]}
+,
+{"type":"Feature","properties":{"MSA":"San Francisco-Oakland-Berkeley, CA","GEOID":"41860","Profiles":10103},"geometry":{"type":"Point","coordinates":[-19.841177671867374,1.8878131818305053]},"bbox":[-19.841177671867374,1.8878131818305053,-19.841177671867374,1.8878131818305053]}
+,
+{"type":"Feature","properties":{"MSA":"San Jose-Sunnyvale-Santa Clara, CA","GEOID":"41940","Profiles":2145},"geometry":{"type":"Point","coordinates":[-19.394816517598368,0.8583131132944427]},"bbox":[-19.394816517598368,0.8583131132944427,-19.394816517598368,0.8583131132944427]}
+,
+{"type":"Feature","properties":{"MSA":"Seattle-Tacoma-Bellevue, WA","GEOID":"42660","Profiles":4272},"geometry":{"type":"Point","coordinates":[-16.90178709394305,11.19943625324178]},"bbox":[-16.90178709394305,11.19943625324178,-16.90178709394305,11.19943625324178]}
+,
+{"type":"Feature","properties":{"MSA":"St. Louis, MO-IL","GEOID":"41180","Profiles":3493},"geometry":{"type":"Point","coordinates":[4.825887661945888,0.1638257389424676]},"bbox":[4.825887661945888,0.1638257389424676,4.825887661945888,0.1638257389424676]}
+,
+{"type":"Feature","properties":{"MSA":"Tampa-St. Petersburg-Clearwater, FL","GEOID":"45300","Profiles":3318},"geometry":{"type":"Point","coordinates":[12.399834302427235,-9.737167713572225]},"bbox":[12.399834302427235,-9.737167713572225,12.399834302427235,-9.737167713572225]}
+,
+{"type":"Feature","properties":{"MSA":"Virginia Beach-Norfolk-Newport News, VA-NC","GEOID":"47260","Profiles":4582},"geometry":{"type":"Point","coordinates":[15.855417920899967,-0.32424127999052]},"bbox":[15.855417920899967,-0.32424127999052,15.855417920899967,-0.32424127999052]}
+,
+{"type":"Feature","properties":{"MSA":"Washington-Arlington-Alexandria, DC-VA-MD-WV","GEOID":"47900","Profiles":46671},"geometry":{"type":"Point","coordinates":[14.663523243876364,1.4853745937118903]},"bbox":[14.663523243876364,1.4853745937118903,14.663523243876364,1.4853745937118903]}]}

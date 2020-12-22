@@ -1,0 +1,23 @@
+{"type":"FeatureCollection","features":[{"type":"Feature","properties":{"type":"city","class":"1","name":"New York"},"geometry":{"type":"Point","coordinates":[16.85898503888331,3.949192955870222]},"bbox":[16.85898503888331,3.949192955870222,16.85898503888331,3.949192955870222]}
+,
+{"type":"Feature","properties":{"type":"city","class":"1","name":"Chicago"},"geometry":{"type":"Point","coordinates":[6.643974974323037,3.47345303093708]},"bbox":[6.643974974323037,3.47345303093708,6.643974974323037,3.47345303093708]}
+,
+{"type":"Feature","properties":{"type":"city","class":"1","name":"Atlanta"},"geometry":{"type":"Point","coordinates":[10.026872379493271,-4.407652079409859]},"bbox":[10.026872379493271,-4.407652079409859,10.026872379493271,-4.407652079409859]}
+,
+{"type":"Feature","properties":{"type":"city","class":"1","name":"Miami"},"geometry":{"type":"Point","coordinates":[14.758886035148244,-11.696152004876335]},"bbox":[14.758886035148244,-11.696152004876335,14.758886035148244,-11.696152004876335]}
+,
+{"type":"Feature","properties":{"type":"city","class":"1","name":"Houston"},"geometry":{"type":"Point","coordinates":[1.0125029416403255,-8.965480234650604]},"bbox":[1.0125029416403255,-8.965480234650604,1.0125029416403255,-8.965480234650604]}
+,
+{"type":"Feature","properties":{"type":"city","class":"1","name":"Los Angeles"},"geometry":{"type":"Point","coordinates":[-17.656474213687154,-2.5586186657425483]},"bbox":[-17.656474213687154,-2.5586186657425483,-17.656474213687154,-2.5586186657425483]}
+,
+{"type":"Feature","properties":{"type":"city","class":"1","name":"Seattle"},"geometry":{"type":"Point","coordinates":[-17.179689068796762,11.323637654254767]},"bbox":[-17.179689068796762,11.323637654254767,-17.179689068796762,11.323637654254767]}
+,
+{"type":"Feature","properties":{"type":"city","class":"1","name":"Denver"},"geometry":{"type":"Point","coordinates":[-6.367372073955424,1.372283595225222]},"bbox":[-6.367372073955424,1.372283595225222,-6.367372073955424,1.372283595225222]}
+,
+{"type":"Feature","properties":{"type":"city","class":"2","name":"Augusta"},"geometry":{"type":"Point","coordinates":[12.039440090585977,-4.42509654830847]},"bbox":[12.039440090585977,-4.42509654830847,12.039440090585977,-4.42509654830847]}
+,
+{"type":"Feature","properties":{"type":"city","class":"2","name":"Macon"},"geometry":{"type":"Point","coordinates":[10.766141129494791,-5.231120981702407]},"bbox":[10.766141129494791,-5.231120981702407,10.766141129494791,-5.231120981702407]}
+,
+{"type":"Feature","properties":{"type":"city","class":"2","name":"Columbus"},"geometry":{"type":"Point","coordinates":[9.683503425465055,-5.746956296103825]},"bbox":[9.683503425465055,-5.746956296103825,9.683503425465055,-5.746956296103825]}
+,
+{"type":"Feature","properties":{"type":"city","class":"2","name":"Savannah"},"geometry":{"type":"Point","coordinates":[12.986358753520266,-5.687415216995312]},"bbox":[12.986358753520266,-5.687415216995312,12.986358753520266,-5.687415216995312]}]}

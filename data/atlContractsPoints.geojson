@@ -1,0 +1,29 @@
+{
+"type": "FeatureCollection",
+"features": [
+{ "type": "Feature", "properties": { "City": "ATLANTA", "State": "GA", "story": "atlContracts", "type": "contractLine", "Contracts": 113 }, "geometry": { "type": "Point", "coordinates": [ -84.3902644, 33.7489924 ] } },
+{ "type": "Feature", "properties": { "City": "BETHESDA", "State": "MD", "story": "atlContracts", "type": "contractLine", "Contracts": 3 }, "geometry": { "type": "Point", "coordinates": [ -77.124234131163902, 38.9819845 ] } },
+{ "type": "Feature", "properties": { "City": "BOSTON", "State": "MA", "story": "atlContracts", "type": "contractLine", "Contracts": 5 }, "geometry": { "type": "Point", "coordinates": [ -71.0582912, 42.3602534 ] } },
+{ "type": "Feature", "properties": { "City": "BOULDER", "State": "CO", "story": "atlContracts", "type": "contractLine", "Contracts": 1 }, "geometry": { "type": "Point", "coordinates": [ -105.2705456, 40.0149856 ] } },
+{ "type": "Feature", "properties": { "City": "CAMP H M SMITH", "State": "HI", "story": "atlContracts", "type": "contractLine", "Contracts": 2 }, "geometry": { "type": "Point", "coordinates": [ -157.909914999414013, 21.386148542712402 ] } },
+{ "type": "Feature", "properties": { "City": "FORT GEORGE G MEADE", "State": "MD", "story": "atlContracts", "type": "contractLine", "Contracts": 9 }, "geometry": { "type": "Point", "coordinates": [ -76.747278760810602, 39.10476315 ] } },
+{ "type": "Feature", "properties": { "City": "FORT GORDON", "State": "GA", "story": "atlContracts", "type": "contractLine", "Contracts": 3 }, "geometry": { "type": "Point", "coordinates": [ -82.1620645, 33.420972 ] } },
+{ "type": "Feature", "properties": { "City": "HINES", "State": "IL", "story": "atlContracts", "type": "contractLine", "Contracts": 5 }, "geometry": { "type": "Point", "coordinates": [ -119.0810482, 43.5640385 ] } },
+{ "type": "Feature", "properties": { "City": "KEY WEST", "State": "FL", "story": "atlContracts", "type": "contractLine", "Contracts": 1 }, "geometry": { "type": "Point", "coordinates": [ -81.7724368, 24.5625566 ] } },
+{ "type": "Feature", "properties": { "City": "LAWRENCEVILLE", "State": "GA", "story": "atlContracts", "type": "contractLine", "Contracts": 5 }, "geometry": { "type": "Point", "coordinates": [ -83.9879625, 33.9562149 ] } },
+{ "type": "Feature", "properties": { "City": "MCDONOUGH", "State": "GA", "story": "atlContracts", "type": "contractLine", "Contracts": 4 }, "geometry": { "type": "Point", "coordinates": [ -90.6780272, 40.4376858 ] } },
+{ "type": "Feature", "properties": { "City": "NORCROSS", "State": "GA", "story": "atlContracts", "type": "contractLine", "Contracts": 4 }, "geometry": { "type": "Point", "coordinates": [ -84.2135309, 33.9412127 ] } },
+{ "type": "Feature", "properties": { "City": "NORTH CHARLESTON", "State": "SC", "story": "atlContracts", "type": "contractLine", "Contracts": 10 }, "geometry": { "type": "Point", "coordinates": [ -80.062998196521903, 32.9131295 ] } },
+{ "type": "Feature", "properties": { "City": "PATUXENT RIVER", "State": "MD", "story": "atlContracts", "type": "contractLine", "Contracts": 1 }, "geometry": { "type": "Point", "coordinates": [ -76.7117773, 38.8142728 ] } },
+{ "type": "Feature", "properties": { "City": "PENSACOLA", "State": "FL", "story": "atlContracts", "type": "contractLine", "Contracts": 2 }, "geometry": { "type": "Point", "coordinates": [ -87.2169149, 30.421309 ] } },
+{ "type": "Feature", "properties": { "City": "ROSWELL", "State": "GA", "story": "atlContracts", "type": "contractLine", "Contracts": 3 }, "geometry": { "type": "Point", "coordinates": [ -84.360022, 34.02332 ] } },
+{ "type": "Feature", "properties": { "City": "SAN DIEGO", "State": "CA", "story": "atlContracts", "type": "contractLine", "Contracts": 35 }, "geometry": { "type": "Point", "coordinates": [ -117.1627728, 32.7174202 ] } },
+{ "type": "Feature", "properties": { "City": "SMYRNA", "State": "GA", "story": "atlContracts", "type": "contractLine", "Contracts": 3 }, "geometry": { "type": "Point", "coordinates": [ -75.6046494, 39.2998339 ] } },
+{ "type": "Feature", "properties": { "City": "SUWANEE", "State": "GA", "story": "atlContracts", "type": "contractLine", "Contracts": 5 }, "geometry": { "type": "Point", "coordinates": [ -84.0712997, 34.0514898 ] } },
+{ "type": "Feature", "properties": { "City": "TAMPA", "State": "FL", "story": "atlContracts", "type": "contractLine", "Contracts": 1 }, "geometry": { "type": "Point", "coordinates": [ -82.458444, 27.9477595 ] } },
+{ "type": "Feature", "properties": { "City": "VICKSBURG", "State": "MS", "story": "atlContracts", "type": "contractLine", "Contracts": 2 }, "geometry": { "type": "Point", "coordinates": [ -90.8777342, 32.3528418 ] } },
+{ "type": "Feature", "properties": { "City": "WARNER ROBINS", "State": "GA", "story": "atlContracts", "type": "contractLine", "Contracts": 11 }, "geometry": { "type": "Point", "coordinates": [ -83.606568, 32.6200973 ] } },
+{ "type": "Feature", "properties": { "City": "WASHINGTON", "State": "DC", "story": "atlContracts", "type": "contractLine", "Contracts": 68 }, "geometry": { "type": "Point", "coordinates": [ -77.0365581, 38.8949924 ] } },
+{ "type": "Feature", "properties": { "City": "WRIGHT PATTERSON AFB", "State": "OH", "story": "atlContracts", "type": "contractLine", "Contracts": 6 }, "geometry": { "type": "Point", "coordinates": [ -84.0697, 39.8071 ] } }
+]
+}
