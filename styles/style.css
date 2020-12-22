@@ -145,6 +145,7 @@ article {
     position: relative;
     padding: 0 1rem;
     max-width: 25rem;
+    z-index: 1000;
 }
 
 figure p {
@@ -165,6 +166,7 @@ figure p {
 	color: #000;
 	box-shadow: 0 3px 6px rgba(0, 0, 0, 0.16);
 	opacity: 0.25;
+	z-index: 1000;
 }
 
 .last-step {
@@ -236,11 +238,13 @@ figure p {
   max-width: 30rem;
   margin: 0 auto;
   position: relative;
+  z-index: 1000;
 }
 
 #centerScrolly .scrolly article .step {
   /*min-height: 67vh;*/
   margin-bottom: 30rem;
+  z-index: 1000;
 }
 
 #centerScrolly .scrolly article .step.is-active {
@@ -372,5 +376,8 @@ figure p {
 	}
 	.lead {
 		font-size: 1rem;
+	}
+	.last-step {
+		margin-bottom: 100vh;
 	}
 }
