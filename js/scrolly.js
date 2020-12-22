@@ -287,7 +287,7 @@ function stepExit(response) {
 scroller.setup({
 	step:'.step',
 	debug:false,
-	offset:0.6
+	offset:0.8
 })
 .onStepEnter( stepEnter )
 
