@@ -1,5 +1,4 @@
-node_modules/
-.DS_Store
-notes.txt
+
 data/
 eda/
+.DS_Store
