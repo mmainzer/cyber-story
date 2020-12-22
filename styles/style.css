@@ -335,6 +335,11 @@ figure p {
 		padding: 0;
 	}
 
+	.sideScrolly article.step {
+		margin: 0 auto;
+		padding: 0;
+	}
+
 	.bubbleScroll {
 		width: 100%;
 	    margin: 0 auto;
@@ -345,6 +350,18 @@ figure p {
 
 	.step {
 		margin-bottom: 30rem;
+		opacity: 1;
+	}
+
+	.step.is-active {
+		opacity: 1;
+	}
+
+	#centerScrolly .scrolly article .step {
+		opacity: 1;
+	}
+
+	#centerScrolly .scrolly article .step.is-active {
 		opacity: 1;
 	}
 
