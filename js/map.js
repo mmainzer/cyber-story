@@ -28,6 +28,11 @@ const mapOne = new mapboxgl.Map({
 	dragPan: false
 });
 
+const popup = new mapboxgl.Popup({
+	closeButton: false,
+	closeOnClick: false
+});
+
 mapOne.on('load', function() {
 	
 	// add sources

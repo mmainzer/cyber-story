@@ -39,6 +39,13 @@ p {
 	font-size: 1.25rem;
 }
 
+h3 {
+	font-family: jaf-bernina-sans, sans-serif;
+	font-weight: 400;
+	font-style: normal;
+	font-size: 1.5rem;
+}
+
 #title {
 	font-size: 5rem;
 	padding-top: 5rem;
@@ -187,6 +194,11 @@ figure p {
 	padding: 1rem;
 }
 
+.step h3 {
+	padding-left: 1rem;
+	padding-top: 1rem;
+}
+
 .step .footnote {
 	font-size: 10px;
 	font-family: jaf-bernina-sans, sans-serif;
@@ -292,6 +304,52 @@ figure p {
 
 .yellow {
 	color: #fdb714;
+}
+
+.popup-header {
+  font-size: 16px;
+  font-family: jaf-bernina-sans, sans-serif;
+  font-weight: 700;
+  font-style: normal;
+  max-width: 150px;
+}
+
+.popup-description {
+	font-family: jaf-bernina-sans, sans-serif;
+	font-weight: 400;
+	font-style: normal;
+	font-size: 14px;
+	margin-bottom: 0;
+	position: relative;
+	padding: 0;
+	left: 0;
+	top: 0;
+	transform: none;
+	color: #000;
+}
+
+.mapboxgl-popup-tip {
+  display: none;
+}
+
+.mapboxgl-popup {
+  border: 0.5px solid #333;
+  border-radius: 2px;
+  border-style: unset;
+  line-height: 1.2;
+}
+
+.mapboxgl-popup-content {
+  background-color: rgba(255, 255, 255, 0.9);
+  box-sizing: border-box;
+  text-align: left;
+  min-width: 225px;
+  position: absolute;
+  bottom: 0;
+  border-radius: 2px;
+  padding: 7px 10px;
+  pointer-events: none;
+  box-shadow: 1px 1px 2px #333;
 }
 
 @media only screen and (max-width: 1024px) {
