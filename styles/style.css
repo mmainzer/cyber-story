@@ -23,7 +23,7 @@ Bernina Sans Semibold
 
 
 body {
-	background-color: #f8f9fa;
+	background-color: #fff;
 }
 
 h1 {
@@ -48,7 +48,7 @@ h3 {
 
 #title {
 	font-size: 5rem;
-	padding-top: 5rem;
+	padding-top: 1rem;
 }
 
 .big-image {
