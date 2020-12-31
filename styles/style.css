@@ -365,16 +365,6 @@ figure p {
 
 }
 
-@media only screen and (max-height: 649px) {
-	#centerScrolly .scrolly figure.sticky.flourish-container {
-		top: 0;
-	}
-
-	.last-step {
-		margin-bottom: 100vh;
-	}
-}
-
 /*if device is less than or equal to 991 pixels*/
 @media only screen and (max-width: 991px)  {
 	.scrolling-container {
@@ -437,6 +427,26 @@ figure p {
 	    padding: 0;
 	    width: 100%;
 	}
+
+}
+
+@media only screen and (max-height: 649px) {
+	#centerScrolly .scrolly figure.sticky.flourish-container {
+		top: 0;
+	}
+
+	.last-step {
+		margin-bottom: 100vh;
+	}
+}
+
+/*if device is less than or equal to 575 pixels*/
+@media only screen and (max-width: 575px)  {
+
+  body {
+    margin: 10px;
+    padding: 10px;
+  }
 
 }
 
