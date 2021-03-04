@@ -24,6 +24,11 @@ Bernina Sans Semibold
 
 body {
 	background-color: #fff;
+	line-height: calc(1em - -.15 * (5rem - 1em));
+	font-size: 1rem;
+	font-family: jaf-bernina-sans, sans-serif;
+	font-weight: 400;
+	font-style: normal;
 }
 
 h1 {
@@ -34,20 +39,18 @@ h1 {
 
 p {
 	font-family: jaf-bernina-sans, sans-serif;
-	font-weight: 300;
+	font-weight: 400;
 	font-style: normal;
-	font-size: 1.25rem;
 }
 
 h3 {
 	font-family: jaf-bernina-sans, sans-serif;
 	font-weight: 400;
 	font-style: normal;
-	font-size: 1.5rem;
 }
 
 #title {
-	font-size: 5rem;
+	/*font-size: 5rem;*/
 	padding-top: 1rem;
 }
 
@@ -62,10 +65,29 @@ nav {
   max-height: 100px;
 }
 
+.bg-light {
+	background-color: transparent !important;
+}
+
 .nav-link {
 	font-family: jaf-bernina-sans, sans-serif;
 	font-weight: 400;
 	font-style: normal;
+}
+
+.navbar-light .navbar-toggler {
+	border-color: transparent;
+	color: #00bcf1;
+}
+
+.navbar-light .navbar-toggler-icon {
+	background-image: url("../assets/hamburger.svg");
+
+}
+
+#navbarTogglerDemo02 {
+	justify-content: flex-end;
+	background-color: #fff;
 }
 
 .caption-container {
@@ -87,6 +109,8 @@ nav {
 
 .lead {
 	margin-top: 3rem;
+	font-size: 1rem;
+	font-weight: 400;
 }
 
 .last-lead {
@@ -307,7 +331,7 @@ figure p {
 }
 
 .popup-header {
-  font-size: 16px;
+  /*font-size: 16px;*/
   font-family: jaf-bernina-sans, sans-serif;
   font-weight: 700;
   font-style: normal;
@@ -318,7 +342,7 @@ figure p {
 	font-family: jaf-bernina-sans, sans-serif;
 	font-weight: 400;
 	font-style: normal;
-	font-size: 14px;
+	/*font-size: 14px;*/
 	margin-bottom: 0;
 	position: relative;
 	padding: 0;
@@ -352,10 +376,58 @@ figure p {
   box-shadow: 1px 1px 2px #333;
 }
 
+.redirect {
+	background-color: #003A5D;
+}
+
+.redirect-row {
+	margin: 0 auto;
+	padding: 5.5vw 7vw;
+	justify-content: space-between;
+}
+
+.img-thumbnail {
+	border: none;
+	background-color: transparent;
+}
+
+.image-title-link .img-wrapper > a {
+	text-decoration: none;
+}
+
+a {
+	color: #007db9;
+}
+
+a:hover {
+	text-decoration: none;
+}
+
+.image-title-link h3 {
+	color: #fff;
+	margin-top: 15px;
+	margin: 2em 0 .5em;
+	font-weight: 300;
+	font-size: calc((100vw - 1280px) * 0 * 17 + 1.29412rem);
+}
+
+.image-title-link p {
+	color: #00bcf1;
+	font-weight: 300;
+	font-size: .88235rem;
+}
+
+.image-title-link h3 > a {
+	display: inline-block;
+	padding-right: 1.125rem;
+	color: #fff;
+	text-decoration: none;
+}
+
 @media only screen and (max-width: 1024px) {
 
 	#title {
-		font-size: 2rem;
+		/*font-size: 2rem;*/
 		padding-top: 0;
 	}
 
@@ -453,10 +525,10 @@ figure p {
 /*if device is less than or equal to 400 pixels*/
 @media only screen and (max-width: 400px)  {
 	#title {
-		font-size: 2rem;
+		/*font-size: 2rem;*/
 	}
 	p {
-		font-size: 1rem;
+		/*font-size: 1rem;*/
 	}
 	.step {
 	    margin-bottom: 25rem;
