@@ -6,9 +6,9 @@ let iframe = document.querySelector("#flourishStory iframe");
 // get url for path to be animated later
 const pathId = 'ckinkn9iw0vvc2dqtbyzs7md5';
 const pathUrl = 'https://api.mapbox.com/datasets/v1/gpcecondev/' + pathId + "/features?access_token=" + mapboxgl.accessToken;
-console.log(pathUrl);
+
 function stepEnter(response) {
-	console.log(response.element.id);
+
 	if (response.direction === 'down') {
 		if (response.element.id === '1') {
 			$(response.element).addClass('is-active');
@@ -36,11 +36,11 @@ function stepEnter(response) {
 		} else if (response.element.id === '6') {
 			$(response.element).addClass('is-active');
 			d3.json(pathUrl).then(function(data) {
-				console.log(data);
+
 				const path = data.features.find(element => element.id === "80dac418964e5ed2eff848eabaa09211");
-				console.log(path);
+
 				const coordinates = path.geometry.coordinates;
-				console.log(coordinates);
+
 				path.geometry.coordinates = [coordinates[0]];
 
 				mapOne.addSource('trace', { type: 'geojson', data : path });
@@ -194,7 +194,7 @@ function stepEnter(response) {
 }
 
 function stepExit(response) {
-	console.log(response.element.id);
+
 	if (response.direction === 'up') {
 		if (response.element.id === '27') {
 			let iframe = document.querySelector("#flourishStory iframe");

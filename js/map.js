@@ -8,7 +8,6 @@ mapboxgl.accessToken = 'pk.eyJ1IjoiZ3BjZWNvbmRldiIsImEiOiJja2luampsd2kwbjcxMnRsa
 
 
 const width = $(window).width();
-console.log(width);
 let pad;
 let padTwo;
 let padTemp;

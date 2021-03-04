@@ -186,7 +186,6 @@ mapThree.on('mousemove', 'msaprofiles', function(e) {
 	msa = msa[0].split('-');
 	msa = "Metro "+msa[0];
 	let profiles = [ e.features[0].properties.Profiles ];
-	console.log(profiles);
 
 	let msaSmall = '<strong> '+msa+' </strong>';
 	msa = '<h1 class="popup-header">'+msa+'</h1>';
